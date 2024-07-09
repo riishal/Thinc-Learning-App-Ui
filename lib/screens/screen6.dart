@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:thinc_app/screens/Screen5.dart';
 import 'package:thinc_app/widgets/navigationBar.dart';
 
-import '../homepage.dart';
-
 int buttonIndex = -1;
 
 class Screen6 extends StatefulWidget {
@@ -314,7 +312,7 @@ class _Screen6State extends State<Screen6> {
                                                           style: ElevatedButton.styleFrom(
                                                               shadowColor:
                                                                   const Color
-                                                                          .fromARGB(
+                                                                      .fromARGB(
                                                                       255,
                                                                       33,
                                                                       215,
@@ -326,7 +324,7 @@ class _Screen6State extends State<Screen6> {
                                                                               25)),
                                                               backgroundColor:
                                                                   const Color
-                                                                          .fromARGB(
+                                                                      .fromARGB(
                                                                       255,
                                                                       50,
                                                                       228,

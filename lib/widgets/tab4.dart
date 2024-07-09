@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:thinc_app/default_home.dart';
 
 int buttonIndex = -1;
 

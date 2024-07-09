@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:thinc_app/nata_page.dart';
+
 import 'package:thinc_app/screens/Screen4.dart';
+import 'package:thinc_app/screens/nata_page.dart';
 import 'package:thinc_app/screens/screen6.dart';
 import 'package:thinc_app/widgets/menu_items.dart';
 

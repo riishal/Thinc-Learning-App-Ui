@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:thinc_app/default_home.dart';
+import 'package:thinc_app/screens/default_home.dart';
+
 import 'package:thinc_app/screens/screen6.dart';
 
 int buttonIndex = -1;

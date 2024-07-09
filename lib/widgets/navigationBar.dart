@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:thinc_app/homepage.dart';
-import 'package:thinc_app/profilepage.dart';
+
+import 'package:thinc_app/screens/homepage.dart';
+import 'package:thinc_app/screens/profilepage.dart';
 import 'package:thinc_app/screens/screen1.dart';
 
 class NvigationBar extends StatefulWidget {
